@@ -27,7 +27,7 @@ def Divide(a, c):
 def Modulus(a, c):
     if c == 0:
         print ("~----------------------------------------------------------------------------------~")
-        print("Error: Take a chiil pill and try again, Modulus by zero is not allowed.")
+        print("Error: Take a chiil pill and try kabili, Modulus by zero is not allowed.")
         print ("~----------------------------------------------------------------------------------~")
         return None
     return a % c
