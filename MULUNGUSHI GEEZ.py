@@ -170,7 +170,7 @@ def calculator():
             memory_clear()
 
         elif option == 14:
-            print("Thats it for now Exiting the iconic PYTHON INTERLECT calculator. Goodbye!")
+            print("Thats it for now Exiting the iconic PYTHON INTERLECT calculator. Have a good day!")
             break
 
         else:
