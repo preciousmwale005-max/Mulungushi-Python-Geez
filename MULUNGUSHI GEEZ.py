@@ -19,7 +19,7 @@ def Multiplication(a, c):
 def Divide(a, c):
     if c == 0:
         print ("~----------------------------------------------------------------------------------~")
-        print("Error: I'm sure you are smarter than a cat, Division by zero is not allowed.")
+        print("Error: I'm sure you are smarter than a dog, Division by zero is not allowed.")
         print ("~----------------------------------------------------------------------------------~")
         return None
     return a / c
